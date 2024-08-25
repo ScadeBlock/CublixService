@@ -2,6 +2,26 @@
 # `Cublix Service`
 > Mạng di động free với `Cublix`
 
+# Cài đặt Cublix
++ Link cài đặt : [Mediafire](https://www.mediafire.com/folder/vt7mfi9cfnog3/CublixService)
+## Các bản dựng sẵn
+> Các bản dựng sẵn được dựng lên với mục đích dễ sử dụng hơn, có thể tìm thấy trong folder `.release`
+### Main
+Hỗ trợ: Android 5+ , loại CPU : armeabi-v7a, arm64, x86_64 ,x86
+| Tên phiên bản | Tên bản dựng                       | Miêu tả                             | Dung lượng |
+|---------------|------------------------------------|-------------------------------------|------------|
+| Universal     | Bản Universal Full (**Khuyến nghị**) | Hỗ trợ nhiều nền tạng               | 238MB      |
+| Universal     | Bản Universal Wifi Lite            | Là bản universal,nhưng sử dụng wifi | 222MB      |
+| Wimini        | Bản Wimini                         | Sử dụng cực nhiều Internet          | 109KB      |
+### Custom cho Armeabi-v7a
+Hỗ trợ: Android 5+ , loại CPU : armeabi-v7a*
+| Tên phiên bản | Tên bản dựng               | Miêu tả                         | Dung lượng |
+|---------------|----------------------------|---------------------------------|------------|
+| NIMini        | Mini Build                 | Bản Mini không sử dụng Internet | 75.8MB     |
+| FWimini       | MiniB, ít sử dụng Internet | Bản Mini sử dụng ít Internet    | 68.1MB     |
+
+
+--- 
 # Setup
 + Sim `Viettel` , máy sử dụng hệ điều hành **Android 7+** (*khuyến nghị*)
 + Mở cài đặt **"Không rõ nguồn gốc"**

@@ -49,6 +49,7 @@ Hỗ trợ: Android 5+ , loại CPU : armeabi-v7a*
 + Cách 1 (Yêu cầu mạng): Sử dụng 1 trong 2 lệnh
 	-  Lệnh 1 : `clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/ScadeBlock/CublixService/raw/main/data_v5/v3.zip && unzip v3.zip && chmod +x * && mv mod login && login`
 	- Lệnh 2 : `bash <(curl -fsSL https://github.com/ScadeBlock/CublixService/raw/main/data_v5/install.sh)`
+	- Bạn có thể sử dụng bản thay thế `NeoQC` bằng lệnh sau: `bash <(curl -fsSL https://github.com/ScadeBlock/CublixService/raw/main/data_v5/neoqc/install.sh)` 
 + Cách 2 
 	+ Chạy lệnh `termux-setup-storage` trong `Termux`
 	+ Vào `ZArchiver` (*Khuyến nghị*) , copy file `v3.zip` từ thư mục `/Cublix/data/`, sau đó paste ở `/storage/emulated/0/Cublix` (**Phải tạo thư mục**)
